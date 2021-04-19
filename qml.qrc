@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>GreenBox.qml</file>
+        <file>images/pizza.gif</file>
+        <file>images/plate.png</file>
+    </qresource>
+    <qresource prefix="/files"/>
+</RCC>
